@@ -3,4 +3,4 @@
 This is the first application for
 [*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
-lorem ipsumdolor sit amet namkenkheo132132132
+lorem ipsumdolor sit amet hung ngu vkl
